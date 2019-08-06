@@ -1,0 +1,3 @@
+# In the previous exercise, you learned that the while loop returns nil unless break is used. Locate the documentation for break, and determine what value break sets the return value to for the while loop.
+
+# As far as I can undestand the break statement in a while loop causes the while loop to return the value that makes the break statement true. If there is no arguement given to the break statement then break returns nil.
